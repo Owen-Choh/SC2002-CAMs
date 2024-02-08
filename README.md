@@ -1,4 +1,5 @@
 # SC2002 CAMs
+> Done by: Owen Choh, Kevin Pang, Chloie Tan, Emily Lim, Deuel Teo
 
 **Camp Application and Management System (CAMs)**
 
